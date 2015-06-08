@@ -1,2 +1,1 @@
-# ironpython_training
-agfg
+# Repository for Ironphython training
